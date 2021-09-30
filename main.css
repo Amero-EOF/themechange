@@ -1670,8 +1670,8 @@
 }
 :root .bg-h5JY_x {
   background: var(--background-tertiary-alt);
-  opacity: 0.5;
-  filter: blur(7px);
+  opacity: 0.5 !important;
+  filter: blur(7px) !important;
   background-size: cover;
   background-repeat: no-repeat;
 }
