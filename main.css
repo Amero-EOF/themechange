@@ -1797,13 +1797,13 @@
 	.container-2lgZY8::after {
 		content: "";
 		position: fixed;
-		top: 280px;
+		top: 0px;
 		bottom: 85px;
 		right: 60px;
 		z-index: -2;
 		width: 320px;
 		background-image: url('https://i.imgur.com/QW2GPll.gif');
-		/* background-repeat: no-repeat; */
+		background-repeat: no-repeat;
 		background-size: 320px 320px;
 		text-align: center;
 		display: flex;
