@@ -1797,7 +1797,7 @@
 	.container-2lgZY8::after {
 		content: "";
 		position: fixed;
-		top: 50%;
+		top: 35%;
 		bottom: 85px;
 		right: 60px;
 		z-index: -2;
