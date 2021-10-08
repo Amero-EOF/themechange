@@ -1800,7 +1800,7 @@
 		top: 380px;
 		bottom: 85px;
 		right: 60px;
-		z-index: -2;
+		z-index: -1;
 		width: 320px;
 		background-image: url('https://i.imgur.com/QW2GPll.gif') !important;
 		background-repeat: no-repeat;
@@ -1821,7 +1821,7 @@
 		top: 220px;
 		bottom: 85px;
 		right: 70px;
-		z-index: -1;
+		z-index: -2;
 		width: 300px;
 		border-radius: var(--border-radius);
 		background-color: rgba(0,0,0,0.5);
