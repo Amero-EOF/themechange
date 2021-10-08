@@ -1795,7 +1795,7 @@
   }
 
 .container-2lgZY8::after {
-    /* content: url('https://i.imgur.com/QW2GPll.gif'); */
+    content: "";
     position: fixed;
     top: 220px;
     bottom: 85px;
