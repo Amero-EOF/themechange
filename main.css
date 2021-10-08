@@ -1797,9 +1797,8 @@
 	.container-2lgZY8::after {
 		content: "";
 		position: fixed;
-		top: 35%;
-		bottom: 85px;
-		right: 60px;
+		bottom: 0%;
+		right: 50px;
 		z-index: -2;
 		width: 340px;
 		background-image: url('https://i.imgur.com/QW2GPll.gif');
