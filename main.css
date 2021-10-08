@@ -1788,14 +1788,14 @@
     bottom: 120px;
     right: 60px;
     width: 320px;
-  }
+  }	
 
   .tabBody-3YRQ8W {
     transform: none;
   }
 
 .container-2lgZY8::after {
-    content: "<img src=url('https://i.imgur.com/QW2GPll.gif')/>";
+    content: "url('https://i.imgur.com/QW2GPll.gif')";
     position: fixed;
     top: 220px;
     bottom: 85px;
