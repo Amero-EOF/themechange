@@ -1794,7 +1794,7 @@
 		transform: none;
 	}
 
-	.container-2lgZY8::after {
+	.container-2lgZY8::before {
 		content: "";
 		position: fixed;
 		top: 380px;
@@ -1815,7 +1815,7 @@
 		overflow: hidden;
 	}
 
-	.container-2lgZY8::before {
+	.container-2lgZY8::after {
 		content: "";
 		position: fixed;
 		top: 220px;
