@@ -1811,6 +1811,7 @@
     color: var(--text-normal);
     border-radius: var(--border-radius);
     overflow: hidden;
+	transform: scale(0.6);
 }
 
 .container-2lgZY8::before {
