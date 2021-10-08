@@ -1824,7 +1824,7 @@
 		z-index: -1;
 		width: 300px;
 		border-radius: var(--border-radius);
-		background: var(--jumping-gif) bottom/40% no-repeat;
+		background-color: rgba(0,0,0,0.5);
 	}
 
 	.guilds-1SWlCJ + :nth-child(2) {
