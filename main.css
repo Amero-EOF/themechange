@@ -547,6 +547,8 @@
 :root .membersWrap-2h-GB4 .members-1998pB {
   width: 100%;
   background-color: var(--background-primary);
+  top:20px;
+  height: 557px;
 }
 :root .membersWrap-2h-GB4 .members-1998pB .content-3YMskv {
   background-color: transparent;
@@ -1785,7 +1787,7 @@
 	.chatContent-a9vAAp + :last-child {
 		position: fixed;
 		top: 340px;
-		bottom: 120px;
+		bottom: 125px;
 		right: 80px;
 		width: 320px;
 	}	
