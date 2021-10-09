@@ -1784,7 +1784,7 @@
 @media (min-width: 1350px) {
 	.chatContent-a9vAAp + :last-child {
 		position: fixed;
-		top: 280px;
+		top: 340px;
 		bottom: 120px;
 		right: 80px;
 		width: 320px;
@@ -1818,7 +1818,7 @@
 	.container-2lgZY8::after {
 		content: "";
 		position: fixed;
-		top: 220px;
+		top: 320px;
 		bottom: 85px;
 		right: 80px;
 		z-index: -2;
@@ -1837,7 +1837,7 @@
 		width: 320px;
 		height: 50px;
 		bottom: 28px;
-		right: 70px;
+		right: 80px;
 		background-color: var(--background-primary);
 		border-radius: var(--border-radius);
 	}
