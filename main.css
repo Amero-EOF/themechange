@@ -1799,7 +1799,7 @@
 		position: fixed;
 		top: 380px;
 		bottom: 85px;
-		right: 70px;
+		right: 75px;
 		z-index: -1;
 		width: 320px;
 		background-image: url('https://i.imgur.com/QW2GPll.gif') !important;
@@ -1811,7 +1811,6 @@
 		justify-content: center;
 		font-size: 30px;
 		color: var(--text-normal);
-		padding-right: 10px;
 		border-radius: var(--border-radius);
 		overflow: hidden;
 	}
@@ -1821,10 +1820,9 @@
 		position: fixed;
 		top: 220px;
 		bottom: 85px;
-		right: 70px;
+		right: 75px;
 		z-index: -2;
 		width: 320px;
-		padding-right: 10px;
 		border-radius: var(--border-radius);
 		background-color: rgba(0,0,0,0.5);
 	}
@@ -1836,7 +1834,7 @@
 
 	.panels-j1Uci_ > .container-3baos1 {
 		position: fixed;
-		width: 305px;
+		width: 320px;
 		height: 50px;
 		bottom: 28px;
 		right: 70px;
