@@ -1786,7 +1786,7 @@
 		position: fixed;
 		top: 280px;
 		bottom: 120px;
-		right: 60px;
+		right: 80px;
 		width: 320px;
 	}	
 
@@ -1799,7 +1799,7 @@
 		position: fixed;
 		top: 380px;
 		bottom: 85px;
-		right: 75px;
+		right: 80px;
 		z-index: -1;
 		width: 320px;
 		background-image: url('https://i.imgur.com/QW2GPll.gif') !important;
@@ -1820,7 +1820,7 @@
 		position: fixed;
 		top: 220px;
 		bottom: 85px;
-		right: 75px;
+		right: 80px;
 		z-index: -2;
 		width: 320px;
 		border-radius: var(--border-radius);
